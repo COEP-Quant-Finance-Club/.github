@@ -62,7 +62,6 @@ We actively encourage:
 - Technical documentation and learning resources  
 - Peer-to-peer mentorship and collaboration
 - However we wish to keep some of our repositories private!
-- 
 ## Main Contributors
 
 - Abhiraj Vaidya  
