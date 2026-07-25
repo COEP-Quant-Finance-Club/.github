@@ -61,8 +61,8 @@ We actively encourage:
 ## Main Contributors
 
 - Abhiraj Vaidya  
-- Shreyas B  
-- Abhinav Patil  
+- Bhavna Mishra 
+- Aryan Neb 
 and our 80+ member core team :)!
 ## Learn More
 
