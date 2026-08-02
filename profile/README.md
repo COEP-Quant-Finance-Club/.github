@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub organization of the **Quantitative Finance Club at COEP Technological University, Pune, India.**.
 
+Please read our [Contributing Guide](CONTRIBUTING.md) before submitting a Pull Request.
+
 We are a student-led, research-oriented community focused on quantitative finance, algorithmic trading, and performance-critical financial systems. Our members come from engineering, mathematics, computer science, and data-driven disciplines, united by a shared curiosity for how modern financial markets work at both the **model level** and the **systems level**.
 
 This GitHub organization hosts our technical projects, research experiments, and learning-driven implementations — ranging from quantitative research and data engineering to **low-latency trading systems and high-frequency trading (HFT) concepts**.
