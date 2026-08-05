@@ -1,10 +1,10 @@
 # Engineering Standards & Repository Architecture Policy
 **COEP Quant Finance Club**  
 *Target Audience:* Student Coordinators, Technical Heads, Developers, and Maintainers.  
-*Document Version:* 2.1.0 (Production-Ready)
+*Document Version:* 2.1.1 (Production-Ready)
 
 ---
-
+## Always raise a Issue on Github before submitting a pull request (for non club members), any PR sent without issue would be ignored!.
 ## 1. Executive Summary & Philosophy
 
 As the COEP Quant Finance Club scales its engineering operations—spanning high-frequency algorithmic trading engines, heavy quantitative research pipelines, and production web infrastructure—we must maintain strict architectural hygiene. 
